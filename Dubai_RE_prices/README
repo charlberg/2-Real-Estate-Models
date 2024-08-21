@@ -1,1 +1,6 @@
-
+The dataset is from Kaggle, prepared by Kanchana1990 
+https://www.kaggle.com/datasets/kanchana1990/uae-real-estate-2024-dataset/data
+This dataset provides a detailed snapshot of real estate properties listed in Dubai, UAE, as of August 2024. 
+The dataset includes over 5,000 listings scraped using the Apify API from Propertyfinder and various other real estate websites in the UAE. 
+The data includes key details such as the number of bedrooms and bathrooms, price, location, size, and whether the listing is verified. 
+All personal identifiers, such as agent names and contact details, have been ethically removed.
